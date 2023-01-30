@@ -1,2 +1,3 @@
-Visualizar por pantalla un mensaje de bienvenida en javaScript en una página Web, o consola
+Visualizar por pantalla un mensaje de bienvenida pidiendo el nombre de usuario 
+en javaScript en una página Web, o consola
 envialo para ser revisado por administrador de este repositorio
