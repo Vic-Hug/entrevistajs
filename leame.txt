@@ -1,0 +1,6 @@
+Ingresa al link https://www.digitallearning.es/tests/javascript.html 
+para realizar el test-js de tu entrevista 
+al finalizar coloca tus resultados y respuestas en un archivo adicional, 
+este debera ser llamdo como "TuNombreCompleto.doc o pdf" 
+reliza el push a este repositorio solicitando al administrador la entrega del mismo, 
+el tiempo estimado es de 6 minutos exactos  
