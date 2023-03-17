@@ -1,0 +1,19 @@
+
+
+ingresar al linck https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192
+
+1.- demostra los archivos en arbol
+2.- salir de el directorio actual, ir a root /
+3.- listar el contenido de root/
+4.- regresar a /home
+5.- crear las directorios: 
+		dia/hora/minuto.txt
+		dia/hora/segundo.txt
+6.- mover dia/hora/segundo a semana/
+7.- mover semana/ a mes/
+8.- enviar el texto "esto esta echo con > 2:30 min" al archivo minuto.txt
+9.- mostar el contenido sin editar
+10.- enviar el texto "esto esta echo con > 21:30 seg" al archivo segundo.txt
+11.- mostar las variables de entorno.
+12.- enviar la salida de variables de entorno dentro del archivo variablesE.txt
+13.- mover el  archivo variablesE.txt al directorio día/, demostrar archivos y directorios en arbol.
