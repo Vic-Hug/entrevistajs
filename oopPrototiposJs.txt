@@ -1,0 +1,14 @@
+
+
+utiliza el concepto orientado a objetos por prototipos de javaScript y
+declara un objeto "persona" con dos propiedades "nombre, y apellido".
+
+1.- imprime por consola el nombre completo. ---> ejemplo Juan Perez
+
+2.- crea un metodo de nombre nombre completo para imprimir por consoloa 
+un nuevo nombre---> ejemplo Maria Lara.
+
+3.- realiza la instancia con objetos diferrentes 
+
+--->ejemlo obj1 ----> Juan Perez
+--->ejemlo obj2 ----> Maria Lara

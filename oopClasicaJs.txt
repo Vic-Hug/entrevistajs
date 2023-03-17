@@ -1,0 +1,18 @@
+accede al link:
+
+https://paiza.io/projects/e3sVJL9w0SInpvQ-YjbG2w
+
+utiliza el concepto orientado a objetos de la forma clasica en javaScript 
+
+1.- crear una clase de nombre Vehiculo, con los atributos 
+		tipo, nombre, ruedas
+	los metodos 
+		arrancar(), aparcar(), 
+		metodos de acceso a los atributos y 
+		el constructor() para inicializar los atributos
+
+2.- crea una clase Coche que herede de Vehiculo
+3.- declara el constructor de la clase Coche para inicializar el atributo nombre
+4.- llama al constructor de la clase heredada 
+5.- visualiza los metodos de la clase vehiculo con una instancia a la 
+    clase Coche y demuestra los metodos de Vehiculo arrancar(), aparcar(), con el nombre del Vehiculo, por consola
