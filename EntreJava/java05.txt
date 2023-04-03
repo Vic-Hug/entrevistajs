@@ -1,0 +1,18 @@
+Escribe un programa en Java para crear una lista del supermercado. Deberás utilizar una colección y deberás agregar 5 elementos a la lista utilizando los métodos correspondientes. Una vez agregados todos los elementos, deberás mostrar cada elemento de la lista por consola. 
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ListaSupermercado {
+    
+   	 
+   	 listaSuper.("Leche");
+   	 listaSuper.("Huevos");
+   	 listaSuper.("Pan");
+   	 listaSuper.("Queso");
+   	 listaSuper.("Frutas");
+
+   	 System.out.println("Elementos de la lista del super:");
+   	 
+       }
+}

@@ -1,0 +1,9 @@
+Escribe un programa en Java para comprobar si una palabra ingresada por el usuario es un palíndromo o no (un palíndromo es una palabra que se lee igual de derecha a izquierda que de izquierda a derecha), utilizando métodos de cadenas. En caso de que la palabra ingresada sea un palíndromo, se deberá imprimir “La palabra ingresada si es un palíndromo”, en caso contrario, se deberá mostrar “La palabra ingresada no es un palíndromo”. Se deberá realizar la prueba con las palabras “oso”, “rallar”, “reconocer”.
+
+
+
+import java.util.Scanner;
+
+class Palindromo {
+    
+}

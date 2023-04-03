@@ -1,0 +1,27 @@
+Escribe un programa en Java para crear una clase llamada “Persona” con atributos como “nombre”, “edad”, “dirección” y “teléfono” utilizando distintos tipos de datos. La clase deberá tener un constructor para inicializar los atributos y un método para imprimir la información de la persona. Se deberán crear dos instancias de esta clase con su método para mostrar la información. 
+
+    
+    public class Persona {
+	private String nombre;
+	private int edad;
+	private String direccion;
+	private String telefono;
+    
+	public Persona(String nombre, int edad, String direccion, String telefono) {
+    	
+	}
+    
+	
+    
+    
+   
+   	 
+   	 Persona Felipe = new Persona ("Felipe", 30, "Tlalnepantla", "5512345678");
+   	 Persona Jesus = new Persona ("Jesus", 30, "Alvaro Obregon", "5512345678");
+   	 
+   	 
+
+    
+
+} 
+

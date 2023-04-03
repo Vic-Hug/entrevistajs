@@ -1,0 +1,32 @@
+Crear una programa en Java para crear una clase llamada “CuentaBancaria” con atributos como número de cuenta, titular y saldo. La clase debe tener un constructor para inicializar los atributos, un método para depositar dinero, un método para retirar dinero y un método para imprimir el saldo actual. Se deberá crear una instancia de la clase para probar los 3 métodos.
+
+
+public class CuentaBancaria {
+    private String numeroCuenta;
+    private String titular;
+    private double saldo;
+
+    public CuentaBancaria(String numeroCuenta, String titular, double saldo) {
+   	 
+    }
+
+    public void depositar(double cantidad) {
+   	
+    }
+
+    public void retirar(double cantidad) {
+   	 
+    }
+
+    public void imprimirSaldo() {
+   	
+
+   
+
+   	 CuentaBancaria nuevaCuenta = new CuentaBancaria("145678", "Felipe Maqueda", 457.89);
+   	 nuevaCuenta.depositar(700.00);
+   	 nuevaCuenta.retirar(100.50);
+   	 nuevaCuenta.imprimirSaldo();
+
+    }
+}

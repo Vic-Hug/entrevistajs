@@ -1,0 +1,19 @@
+Escribe un programa en Java para comprobar si una lista contiene un elemento específico. La lista deberá ser implementada con una colección de Java, agregando los elementos “rojo”, “verde” y “azul”. Si la lista incluye la palabra “rojo”, se deberá mostrar el mensaje “La lista contiene el color rojo”. En caso contrario, deberá mostrar el mensaje “La lista no contiene el color rojo”. 
+
+
+public class ComprobacionLista {
+
+   metodo {
+
+   	 List<String> colores = new ArrayList<>();
+	 
+
+   	 colores.contains("rojo");
+   	 
+   		 System.out.println("La lista contiene el color rojo.");
+   	
+   		 System.out.println("La lista no contiene el color rojo.");
+   	 }
+
+        
+}

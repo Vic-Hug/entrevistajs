@@ -1,0 +1,9 @@
+Escribe un programa en Java que imprima los números pares que existen del 1 al 10.
+
+public class NumerosPares {
+	
+    	// Imprimir los numeros pares del 1 al 10
+    	System.out.println("Numeros pares del 1 al 10:");
+    	
+       }
+}
